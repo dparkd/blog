@@ -1,25 +1,17 @@
 ---
 title:  "Most Valuable Intern Lessons I learned - Part II"
 date:   2015-08-17 10:18:00
-description: "You Learn by Failing"
+description: "When you fall a hand is there"
+published: false
 ---
 
 *Preface*: I am a young designer who has only worked 2 startup jobs. One at <a href="http://www.eventmobi.com/" target="_blank">EventMobi</a> as a Product Designer (Pseudo PM) and another at <a href="https://lemonstand.com" target="_blank">LemonStand</a> as a UI/UX Designer - Both being internships. 
 
 If you haven't read part 1, read it <a href="{{base.url}}/2015/most-valuable-lessons-1/">Here</a>
 
-Nothing Ventured is Nothing Gained
+Clarity is key
 ---
-This is the biggest takeaway for me as a young designer in the tech world. If I ever felt that there was something that the company or I needed, I wouldn’t be afraid to approach the right people. There really is nothing to be afraid of when pitching new ideas.
-
-A list of things that got rejected and approved:
-
-- A re-design for the company website - **Approved**
-- A new design process to solve communication errors - **Rejected**
-- Implementing a weekly UX testing call with users - **Rejected**
-- Asking for a product manager role in the company - **Approved**
-- Buying a 10ft basketball net for the office - **Rejected**
-- Chipotle Wednesdays - **Obviously Approved**
+At one of my internships I thought that having daily stand-ups were enough to communicate goals and plans to the entire team and company - it's not.
 
 <br>
 The one thing you should know is that if something get’s rejected, you shouldn’t take that to heart. There is a reason as to why it got rejected. If it did, continue to find a way to get your idea approved.

@@ -1,5 +1,5 @@
 ---
-title:  "Most Valuable Intern Lessons I learned - Part I"
+title:  "Most valuable lessons I learned while interning"
 date:   2015-08-17 10:18:00
 description: "You Learn by Failing"
 ---
